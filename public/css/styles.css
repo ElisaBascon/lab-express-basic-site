@@ -4,8 +4,24 @@ body {
     margin-top: 100px;
 } 
 
-div {
-    margin-top: 50px;
+
+#imagesLeft {
+    margin-top: 100px;
+    float: left;
+    margin-left: 80px;
+}
+
+#imagesRight {
+    margin-top: 100px;
+    float: right;
+    margin-right: 80px;
+    margin-left: 5px;
+}
+
+#imagesExtra {
+    margin-top: 150px;
+    float: right;
+    margin-right: 80px;
 }
 
 h1 {
